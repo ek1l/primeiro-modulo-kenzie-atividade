@@ -60,4 +60,4 @@ function unansweredQuestions(slenzie) {
 
 unansweredQuestions(slenzie);
 
-console.log(slenzie)
+console.log(slenzie);
