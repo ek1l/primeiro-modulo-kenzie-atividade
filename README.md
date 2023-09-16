@@ -14,4 +14,5 @@ Este repositório contém uma série de atividades e projetos desenvolvidos como
 1. Clone este repositório em sua máquina local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/ek1l/primeiro-modulo-kenzie-atividade.git
+   ```
